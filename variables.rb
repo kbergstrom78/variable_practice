@@ -7,3 +7,6 @@ year_married = 2021
 shoe_size = 7.5
 height_in_inches = 66.5
 tax_refund = .02
+emptied_dishwasher = true
+vacuumed = true
+cleaned_bathroom = false
