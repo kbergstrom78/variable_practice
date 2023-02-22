@@ -4,3 +4,6 @@ occupation = Student
 age = 44
 number_of_dogs = 2
 year_married = 2021
+shoe_size = 7.5
+height_in_inches = 66.5
+tax_refund = .02
